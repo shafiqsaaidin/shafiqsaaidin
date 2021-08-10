@@ -1,4 +1,4 @@
-### Hi there, I'm Shafiq - aka [Musha][website]
+### Hi there, I'm Shafiq - aka Musha
 
 ## I'm a Developer and Network Admin
 - I'm currently working on a [vpnje-bot][website]
@@ -9,7 +9,7 @@
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]
 
 <br />
 
