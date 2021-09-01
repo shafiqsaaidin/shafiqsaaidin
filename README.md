@@ -7,4 +7,4 @@
 ## Github Stats
 <img align="left" alt="shafiqsaaidin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shafiqsaaidin&theme=vue&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqsaaidin&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqsaaidin&theme=vue&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
